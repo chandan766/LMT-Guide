@@ -80,5 +80,5 @@
 >![image](image/s12.png)
 
 >chandan maurya
-![image](image/chandan.jpg)
+![image](https://github.com/cr3992/LMT-Guide/blob/main/image/chandan.jpg)
 
