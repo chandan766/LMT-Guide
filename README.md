@@ -80,6 +80,6 @@
 
 
 >chandan maurya
-![chandan](https://github.com/cr3992/LMT-Guide/assets/76623223/67dd0714-48fb-4286-ade2-2b72bf9ab905)
+![chandan](https://github.com/cr3992/LMT-Guide/assets/76623223/67dd0714-48fb-4286-ade2-2b72bf9ab905 | width=100)
 
 
