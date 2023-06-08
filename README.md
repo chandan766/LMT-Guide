@@ -26,7 +26,7 @@
 >- ### Home Page
 >This module provides the information related to the station between the source to destination. And also shows the distance between source and destination and show nearby places of that station.
 >
->![image](image/s1.png)
+>![image](image\s1.png)
 >![image](image/s13.png)
 >
 >- ### About Page
@@ -80,5 +80,5 @@
 >![image](image/s12.png)
 
 >chandan maurya
-![image](https://github.com/cr3992/LMT-Guide/blob/main/image/chandan.jpg)
+![image](image/chandan.jpg)
 
