@@ -26,7 +26,8 @@
 >- ### Home Page
 >This module provides the information related to the station between the source to destination. And also shows the distance between source and destination and show nearby places of that station.
 >
->![Home](image/s1.png)
+>![Screenshot (14)](https://github.com/cr3992/LMT-Guide/assets/76623223/9f55033f-dd47-49a1-9146-564f47297ba3)
+
 >![image](image/s13.png)
 >
 >- ### About Page
