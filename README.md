@@ -79,7 +79,5 @@
 >![s12](https://github.com/cr3992/LMT-Guide/assets/76623223/6b5b9e32-ab75-4076-a514-339d7e2b2513)
 
 
->chandan maurya
-![chandan](https://github.com/cr3992/LMT-Guide/assets/76623223/67dd0714-48fb-4286-ade2-2b72bf9ab905 =100x100)
 
 
